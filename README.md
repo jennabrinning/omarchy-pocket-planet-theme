@@ -63,16 +63,16 @@ Every terminal slot in index order: normal colours **0–7**, then bright colour
 
 ## Four gardens
 
-All four wallpapers are **3200 × 1800** (16:9), upscaled from the preserved **1672 × 941** generated originals. Click an image to open the full wallpaper; the original is linked beneath it.
+All four wallpapers are **3200 × 1800** (16:9). Click an image to open the full-resolution wallpaper.
 
 <table>
   <tr>
-    <td width="50%" align="center"><a href="backgrounds/01-star-garden.png"><img src="backgrounds/01-star-garden.png" alt="Mint alien watering yellow star flowers on a floating garden planet" width="100%"></a><br><b>Star Garden</b><br>Star flowers, waterfalls and a passing rocket.<br><a href="wallpapers/01-star-garden.png">Generated original</a></td>
-    <td width="50%" align="center"><a href="backgrounds/02-seedling-outpost.png"><img src="backgrounds/02-seedling-outpost.png" alt="Alien gardeners and a parked rocket on a terraced floating island" width="100%"></a><br><b>Seedling Outpost</b><br>A garden stop beneath an open blue sky.<br><a href="wallpapers/02-seedling-outpost.png">Generated original</a></td>
+    <td width="50%" align="center"><a href="backgrounds/01-star-garden.png"><img src="backgrounds/01-star-garden.png" alt="Mint alien watering yellow star flowers on a floating garden planet" width="100%"></a><br><b>Star Garden</b><br>Star flowers, waterfalls and a passing rocket.</td>
+    <td width="50%" align="center"><a href="backgrounds/02-seedling-outpost.png"><img src="backgrounds/02-seedling-outpost.png" alt="Alien gardeners and a parked rocket on a terraced floating island" width="100%"></a><br><b>Seedling Outpost</b><br>A garden stop beneath an open blue sky.</td>
   </tr>
   <tr>
-    <td width="50%" align="center"><a href="backgrounds/03-cloud-voyage.png"><img src="backgrounds/03-cloud-voyage.png" alt="Small spacecraft carrying alien botanists between floating garden islands" width="100%"></a><br><b>Cloud Voyage</b><br>Botanists sailing above a sea of clouds.<br><a href="wallpapers/03-cloud-voyage.png">Generated original</a></td>
-    <td width="50%" align="center"><a href="backgrounds/04-moonlet-nursery.png"><img src="backgrounds/04-moonlet-nursery.png" alt="Mint aliens tending star seedlings on a crescent-shaped garden island" width="100%"></a><br><b>Moonlet Nursery</b><br>A crescent garden with tiny star seedlings.<br><a href="wallpapers/04-moonlet-nursery.png">Generated original</a></td>
+    <td width="50%" align="center"><a href="backgrounds/03-cloud-voyage.png"><img src="backgrounds/03-cloud-voyage.png" alt="Small spacecraft carrying alien botanists between floating garden islands" width="100%"></a><br><b>Cloud Voyage</b><br>Botanists sailing above a sea of clouds.</td>
+    <td width="50%" align="center"><a href="backgrounds/04-moonlet-nursery.png"><img src="backgrounds/04-moonlet-nursery.png" alt="Mint aliens tending star seedlings on a crescent-shaped garden island" width="100%"></a><br><b>Moonlet Nursery</b><br>A crescent garden with tiny star seedlings.</td>
   </tr>
 </table>
 
