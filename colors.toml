@@ -1,0 +1,39 @@
+mode = "light"
+
+accent = "#27786b"
+selection = "#c7e9d8"
+selection_background = "#c7e9d8"
+selection_foreground = "#173e4c"
+muted = "#566c6b"
+
+background = "#fff8e8"
+dark_background = "#f1ead7"
+darker_background = "#e4dece"
+lighter_background = "#fffdf5"
+
+foreground = "#173e4c"
+dark_foreground = "#566c6b"
+light_foreground = "#35545d"
+bright_foreground = "#173e4c"
+
+red = "#b43a40"
+yellow = "#805900"
+orange = "#a34b21"
+green = "#276848"
+cyan = "#176b70"
+blue = "#216499"
+magenta = "#8e4b83"
+brown = "#745037"
+
+bright_red = "#be394a"
+bright_yellow = "#886000"
+bright_green = "#287443"
+bright_cyan = "#15777b"
+bright_blue = "#286daf"
+bright_magenta = "#9b478e"
+
+# Wallpaper accents for filled decorations, not small text on cream.
+coral = "#f47c68"
+sunshine = "#f5cc62"
+mint = "#8dcab0"
+sky = "#98d4ef"
