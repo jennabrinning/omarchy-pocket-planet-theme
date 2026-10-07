@@ -63,7 +63,7 @@ Every terminal slot in index order: normal colours **0–7**, then bright colour
 
 ## Four gardens
 
-All four wallpapers are **3200 × 1800** (16:9), upscaled by Jenna from the preserved **1672 × 941** generated originals. Click an image to open the full wallpaper; the original is linked beneath it.
+All four wallpapers are **3200 × 1800** (16:9), upscaled from the preserved **1672 × 941** generated originals. Click an image to open the full wallpaper; the original is linked beneath it.
 
 <table>
   <tr>
